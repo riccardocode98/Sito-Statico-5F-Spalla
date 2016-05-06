@@ -1,2 +1,1 @@
-#Sito-Statico-5F-Spalla
- aaaa
+in futuro sito sulla mountain bike ; pagina principale : fisica delle sospensioni con grafici di compressione , funzionamento del contakm con forza di lorentz , pagina chimica : carbonio vs alluminio per i telai , pagina italiano e inglese da definire  , storia forse , in alto menu tipo navbar per navigare tras le pagine 
